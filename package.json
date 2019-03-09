@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/avalder01/news-scrapper/issues"
   },
-  "homepage": "https://github.com/avalder01/news-scrapper#readme"
+  "homepage": "https://github.com/avalder01/news-scrapper#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2",
+    "mongoose": "^5.4.18"
+  }
 }
