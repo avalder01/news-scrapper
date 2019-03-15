@@ -35,16 +35,7 @@ html {
     box-shadow: 10px 5px 20px 2px lightslategrey;
   }
   
-  .jumbotron .overlay {
-    /* position: absolute; */
-    /* top: 0; */
-    /* right: 0; */
-    /* bottom: 0; */
-    /* left: 0; */
-    /* z-index: auto; */
-    /* background: linear-gradient(#333, black); */
-    /* opacity: 0.7; */
-  }
+  
   
   .jumbotron .background-image {
     height: 100%;
